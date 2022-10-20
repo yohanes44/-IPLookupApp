@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_879086_iplookup_ipaddressinfo</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 12:25:31</sys_created_on>
+        <sys_id>5545954797a611103dc37cb0f053afff</sys_id>
+        <sys_name>x_879086_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value=" IPLookup" source="x_879086_iplookup">7917bc03972611103dc37cb0f053af80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">7917bc03972611103dc37cb0f053af80</sys_scope>
+        <sys_update_name>ua_table_licensing_config_5545954797a611103dc37cb0f053afff</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>

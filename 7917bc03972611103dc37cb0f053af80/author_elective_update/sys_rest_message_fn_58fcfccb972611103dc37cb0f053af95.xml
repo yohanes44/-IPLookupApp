@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>get test</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>IPInfo [ get test ]</qualified_name>
+        <rest_endpoint>https:/ipinfo.io/json</rest_endpoint>
+        <rest_message display_value="IPInfo">8d577cc7972611103dc37cb0f053af38</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 10:39:59</sys_created_on>
+        <sys_id>58fcfccb972611103dc37cb0f053af95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>get test</sys_name>
+        <sys_package display_value=" IPLookup" source="x_879086_iplookup">7917bc03972611103dc37cb0f053af80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">7917bc03972611103dc37cb0f053af80</sys_scope>
+        <sys_update_name>sys_rest_message_fn_58fcfccb972611103dc37cb0f053af95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 10:39:59</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" IPLookup">7917bc03972611103dc37cb0f053af80</application>
+        <file_path/>
+        <instance_id>283dff9ddbdb64107527d7c8f49619cc</instance_id>
+        <instance_name>dev109940</instance_name>
+        <name>sys_rest_message_fn_58fcfccb972611103dc37cb0f053af95</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>no_authentication</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>get test</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>IPInfo [ get test ]</qualified_name><rest_endpoint>https:/ipinfo.io/json</rest_endpoint><rest_message display_value="IPInfo">8d577cc7972611103dc37cb0f053af38</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-19 10:39:59</sys_created_on><sys_id>58fcfccb972611103dc37cb0f053af95</sys_id><sys_mod_count>0</sys_mod_count><sys_name>get test</sys_name><sys_package display_value=" IPLookup" source="x_879086_iplookup">7917bc03972611103dc37cb0f053af80</sys_package><sys_policy/><sys_scope display_value=" IPLookup">7917bc03972611103dc37cb0f053af80</sys_scope><sys_update_name>sys_rest_message_fn_58fcfccb972611103dc37cb0f053af95</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-19 10:39:59</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-1055188366</payload_hash>
+        <record_name>get test</record_name>
+        <reverted_from/>
+        <source>7917bc03972611103dc37cb0f053af82</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 10:39:59</sys_created_on>
+        <sys_id>ab1df00f972611103dc37cb0f053af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183efd41da50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 10:39:59</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>e31df00f422611101a7a13f3a089e60f</update_guid>
+        <update_guid_history>e31df00f422611101a7a13f3a089e60f:-1055188366</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-19 10:58:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>14bbfa024339496092695105d502c900</sys_id>
+        <sys_metadata>58fcfccb972611103dc37cb0f053af95</sys_metadata>
+        <sys_name>get test</sys_name>
+        <sys_package display_value=" IPLookup" source="x_879086_iplookup">7917bc03972611103dc37cb0f053af80</sys_package>
+        <sys_parent display_value="IPInfo">8d577cc7972611103dc37cb0f053af38</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">7917bc03972611103dc37cb0f053af80</sys_scope>
+        <sys_scope_delete display_value="">2d2e4dfaf3d543ac9004175beb7601c4</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_58fcfccb972611103dc37cb0f053af95</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_58fcfccb972611103dc37cb0f053af95">ab1df00f972611103dc37cb0f053af0f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
